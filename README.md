@@ -1,5 +1,5 @@
 # 📸 PixelWise
-![Uploading image.png…]()
+<img width="1523" height="739" alt="image" src="https://github.com/user-attachments/assets/337eaa5f-74de-4f86-b2d5-1299312bff3b" />
 PixelWise is a simple AI-powered photo editing assistant. It analyzes your uploaded image and provides step-by-step instructions for editing in your favorite photo editing app.  
 
 🔗 **Live Demo:** [pixelwise.netlify.app](https://pixelwise.netlify.app)
